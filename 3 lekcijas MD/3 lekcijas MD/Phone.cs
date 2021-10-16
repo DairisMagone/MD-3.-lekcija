@@ -8,15 +8,15 @@ namespace _3_lekcijas_MD
 {
 	public class Phone
 	{
-		public string phoneName { get; set; }
+		public string PhoneName { get; set; }
 		
-		public string phoneModel { get; set; }
+		public string PhoneModel { get; set; }
 
-		public int phoneLength { get; set; }
+		public int PhoneLength { get; set; }
 
-		public int phoneWidth { get; set; }
+		public int PhoneWidth { get; set; }
 
-		public int phoneHeight { get; set; }
+		public int PhoneHeight { get; set; }
 
 		public void Call()
 		{
